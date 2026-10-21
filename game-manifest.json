@@ -1,0 +1,59 @@
+{
+  "schema": 1,
+  "gameId": "2em60h0dqvjx",
+  "title": "ゆめいろアイス🍨💭",
+  "versionId": "bc51c59e-b0d0-4a29-b7e0-3aefd31ed87e",
+  "snapshotAt": "2026-10-21T11:27:02.845Z",
+  "playUrl": "https://gcn-play.com/play/2em60h0dqvjx",
+  "files": [
+    {
+      "path": "README.md",
+      "mime": "text/markdown; charset=utf-8",
+      "bytes": 1879,
+      "sha256": "ca11d283cb99a00167d8f6e985718dbe9091cf75b88dceb617db70f9926a08b3"
+    },
+    {
+      "path": "index.html",
+      "mime": "text/html; charset=utf-8",
+      "bytes": 3053140,
+      "sha256": "4a283bd987549708b7ca8528447c369572e3ab4d190bce142343a760f351ea6f"
+    },
+    {
+      "path": "assets/images/bg_shop.webp",
+      "mime": "image/webp",
+      "bytes": 44600,
+      "sha256": "7456b0257764e854a30d08de467bdec11f66be0598629e91a004ee43ca3002d7"
+    },
+    {
+      "path": "assets/music/bgm_shop.wav",
+      "mime": "audio/wav",
+      "bytes": 1323044,
+      "sha256": "80db2bd01d49a2309c5ee73b0a746b289c3ed0dcbf6490629bd4f14649005728"
+    },
+    {
+      "path": "assets/sfx/se_finish.wav",
+      "mime": "audio/wav",
+      "bytes": 352878,
+      "sha256": "397af04de43a694ce9e41fb254b8c87a992bfb10a981b24671d8777a77365eb3"
+    },
+    {
+      "path": "assets/sfx/se_scoop.wav",
+      "mime": "audio/wav",
+      "bytes": 176478,
+      "sha256": "d14729255c2f4eb8617fe6487aa8ef97d161c6bd26c1bc773f54eb8733ae8b27"
+    },
+    {
+      "path": "assets/sfx/se_select.wav",
+      "mime": "audio/wav",
+      "bytes": 176478,
+      "sha256": "2987293586cf9fef0931029e770a32c7bc1eb02a470051f36b5949c5b6e70f3a"
+    },
+    {
+      "path": "assets/sfx/se_topping.wav",
+      "mime": "audio/wav",
+      "bytes": 176478,
+      "sha256": "5028d38ea7fe50704b76ad8c9db6415d54475d37255bc1107b4fdc96bb6623a4"
+    }
+  ],
+  "skipped": []
+}
