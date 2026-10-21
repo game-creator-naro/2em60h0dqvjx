@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "gameId": "2em60h0dqvjx",
-  "title": "無題のゲーム",
+  "title": "ゆめいろアイス🍨💭",
   "versionId": "bc51c59e-b0d0-4a29-b7e0-3aefd31ed87e",
-  "snapshotAt": "2026-10-21T09:31:02.157Z",
+  "snapshotAt": "2026-10-21T11:27:02.845Z",
   "playUrl": "https://gcn-play.com/play/2em60h0dqvjx",
   "files": [
     {
       "path": "README.md",
       "mime": "text/markdown; charset=utf-8",
-      "bytes": 1868,
-      "sha256": "a556e9f4f507e9f60c37d7939e6eca2d8a2966407979e119750b3407a9991dd7"
+      "bytes": 1879,
+      "sha256": "ca11d283cb99a00167d8f6e985718dbe9091cf75b88dceb617db70f9926a08b3"
     },
     {
       "path": "index.html",
